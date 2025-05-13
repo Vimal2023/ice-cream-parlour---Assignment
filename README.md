@@ -9,5 +9,4 @@
 -- For the most popular item, find the min, max and average number of orders each month.
 
 ### Do not load this data into an SQL table or use libraries like Pandas. Get these results using basic data structures like list and maps. 
-### The idea of this assignment is to assess you on your knowledge of algorithms and data structures. Use any programming language that you are comfortable in. 
-### Neatness and legibility of the code counts. Submit the solution to hey@mobiux.in.
+### The idea of this assignment is to assess you on your knowledge of algorithms and data structures. Use any programming language that you are comfortable in.
